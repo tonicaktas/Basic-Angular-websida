@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "name":"Pelle",
+    "adress":"en gata",
+    "stad":"Borås",
+    "postkod":"50644",
+    "telefon":"08939848"
+
+  },
+  {
+    "id":2,
+    "name":"Pelle",
+    "adress":"en gata",
+    "stad":"Göteborg",
+    "postkod":"50644",
+    "telefon":"08939848"
+
+  },
+  {
+    "id":3,
+    "name":"Pelle",
+    "adress":"en gata",
+    "stad":"Malmö",
+    "postkod":"50644",
+    "telefon":"08939848"
+
+  },
+  {
+    "id":4,
+    "name":"Pelle",
+    "adress":"en gata",
+    "stad":"Stockholm",
+    "postkod":"50644",
+    "telefon":"08939848"
+
+  }
+]

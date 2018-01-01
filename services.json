@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "name":"Bmw",
+    "description":"Min första bil",
+    "image":"computer-icon.png"
+  },
+
+  {
+    "id":2,
+    "name":"Volvo",
+    "description":"Min andra bil",
+    "image":"computer-icon.png"
+  },
+
+  {
+    "id":3,
+    "name":"Volvo",
+    "description":"Min tredje bil",
+    "image":"computer-icon.png"
+  }
+
+
+]
